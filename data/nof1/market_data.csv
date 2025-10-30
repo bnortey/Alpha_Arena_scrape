@@ -1,0 +1,613 @@
+symbol,price_text
+BTC,$
+ETH,$
+SOL,$
+BNB,$
+DOGE,$
+XRP,$
+BTC,HIGH:$LOW:$
+ETH,HIGH:$LOW:$
+SOL,HIGH:$LOW:$
+BNB,HIGH:$LOW:$
+DOGE,HIGH:$LOW:$
+XRP,HIGH:$LOW:$
+BTC,"Price: $107870 → $108124
+Quantity: -0.10
+Notional: $10787 → $10812
+Holding time: 38M
+NET P&L:
+-$34.04"
+ETH,"Price: $3812.3 → $3769.7
+Quantity: 6.58
+Notional: $25085 → $24805
+Holding time: 59M
+NET P&L:
+-$300.26"
+BTC,"Price: $107479 → $107637
+Quantity: 0.05
+Notional: $5374 → $5382
+Holding time: 15M
+NET P&L:
+$3.79"
+BTC,"Price: $113339 → $107510
+Quantity: -0.05
+Notional: $5667 → $5376
+Holding time: 41H 36M
+NET P&L:
+$288.54"
+XRP,"Price: $2.5427 → $2.4831
+Quantity: 2107.00
+Notional: $5357 → $5232
+Holding time: 13H 9M
+NET P&L:
+-$129.34"
+SOL,"Price: $196.02 → $188.1
+Quantity: 17.34
+Notional: $3399 → $3262
+Holding time: 5H 36M
+NET P&L:
+-$140.00"
+SOL,"Price: $191.68 → $188.13
+Quantity: 25.74
+Notional: $4934 → $4842
+Holding time: 7H 56M
+NET P&L:
+-$93.93"
+ETH,"Price: $4001.1 → $3801.4
+Quantity: 4.98
+Notional: $19925 → $18931
+Holding time: 40H 35M
+NET P&L:
+-$1004.75"
+ETH,"Price: $3814.7 → $3800.4
+Quantity: 1.42
+Notional: $5417 → $5397
+Holding time: 4M
+NET P&L:
+-$24.63"
+BTC,"Price: $110454 → $108354
+Quantity: -0.10
+Notional: $11045 → $10835
+Holding time: 6H 56M
+NET P&L:
+$201.25"
+XRP,"Price: $2.5104 → $2.4969
+Quantity: 2344.00
+Notional: $5884 → $5853
+Holding time: 133H 51M
+NET P&L:
+-$35.93"
+ETH,"Price: $3888.7 → $3810
+Quantity: 1.62
+Notional: $6300 → $6172
+Holding time: 17H 58M
+NET P&L:
+-$132.48"
+ETH,"Price: $4020.4 → $3817.8
+Quantity: -2.49
+Notional: $10011 → $9506
+Holding time: 40H 33M
+NET P&L:
+$496.82"
+DOGE,"Price: $0.19335 → $0.18304
+Quantity: 8355.00
+Notional: $1615 → $1529
+Holding time: 40H 3M
+NET P&L:
+-$87.40"
+BTC,"Price: $108929 → $108837
+Quantity: 0.21
+Notional: $22875 → $22856
+Holding time: 4M
+NET P&L:
+-$36.80"
+BTC,"Price: $109508 → $108800
+Quantity: 0.48
+Notional: $52564 → $52224
+Holding time: 17M
+NET P&L:
+-$367.13"
+BTC,"Price: $110240 → $109500
+Quantity: 0.42
+Notional: $46301 → $45990
+Holding time: 6H 18M
+NET P&L:
+-$334.84"
+SOL,"Price: $194.29 → $191.79
+Quantity: 25.70
+Notional: $4993 → $4929
+Holding time: 111H 31M
+NET P&L:
+-$68.22"
+SOL,"Price: $191.73 → $191.79
+Quantity: 31.62
+Notional: $6063 → $6064
+Holding time: 155H 47M
+NET P&L:
+-$2.67"
+ETH,"Price: $3965.2 → $3881.6
+Quantity: 1.26
+Notional: $4996 → $4891
+Holding time: 146H 40M
+NET P&L:
+-$109.29"
+BTC,"Price: $110017 → $109805
+Quantity: 0.16
+Notional: $17603 → $17569
+Holding time: 7H 47M
+NET P&L:
+-$47.99"
+BNB,"Price: $1122.7 → $1121.5
+Quantity: 1.26
+Notional: $1415 → $1413
+Holding time: 12M
+NET P&L:
+-$2.55"
+BNB,"Price: $1114.1 → $1129.2
+Quantity: -1.65
+Notional: $1838 → $1863
+Holding time: 13H 50M
+NET P&L:
+-$26.40"
+SOL,"Price: $194.16 → $195.92
+Quantity: -14.95
+Notional: $2903 → $2929
+Holding time: 3H 15M
+NET P&L:
+-$28.64"
+BTC,"Price: $109019 → $110250
+Quantity: -0.10
+Notional: $10902 → $11025
+Holding time: 1H 5M
+NET P&L:
+-$128.78"
+BTC,"Price: $108358 → $110199
+Quantity: 0.58
+Notional: $62848 → $63915
+Holding time: 1H 19M
+NET P&L:
+$1017.07"
+SOL,"Price: $194.97 → $191.43
+Quantity: 23.12
+Notional: $4508 → $4426
+Holding time: 5H 12M
+NET P&L:
+-$85.25"
+BTC,"Price: $109997 → $108500
+Quantity: 0.31
+Notional: $34099 → $33635
+Holding time: 12M
+NET P&L:
+-$754.33"
+BTC,"Price: $111291 → $109020
+Quantity: 0.66
+Notional: $73452 → $71953
+Holding time: 12H 17M
+NET P&L:
+-$1263.17"
+BTC,"Price: $111416 → $109299
+Quantity: -0.09
+Notional: $10027 → $9837
+Holding time: 10H 14M
+NET P&L:
+$182.89"
+SOL,"Price: $197.21 → $194.06
+Quantity: 13.75
+Notional: $2712 → $2668
+Holding time: 1H 26M
+NET P&L:
+-$45.46"
+BTC,"Price: $109849 → $110775
+Quantity: 0.11
+Notional: $12083 → $12185
+Holding time: 3H 54M
+NET P&L:
+$92.42"
+SOL,"Price: $196.77 → $197.09
+Quantity: -21.77
+Notional: $4284 → $4291
+Holding time: 8H 33M
+NET P&L:
+-$10.26"
+BTC,"Price: $109940 → $110093
+Quantity: 0.17
+Notional: $18690 → $18716
+Holding time: 147H 47M
+NET P&L:
+$11.05"
+XRP,"Price: $2.6336 → $2.5532
+Quantity: 1371.00
+Notional: $3611 → $3500
+Holding time: 100H 34M
+NET P&L:
+-$113.07"
+XRP,"Price: $2.6085 → $2.5951
+Quantity: 914.00
+Notional: $2384 → $2372
+Holding time: 58M
+NET P&L:
+-$14.15"
+SOL,"Price: $192.68 → $196.94
+Quantity: 26.07
+Notional: $5023 → $5134
+Holding time: 2H 47M
+NET P&L:
+$107.04"
+XRP,"Price: $2.5808 → $2.6066
+Quantity: -1407.00
+Notional: $3631 → $3667
+Holding time: 1H 44M
+NET P&L:
+-$39.06"
+BNB,"Price: $1118.3 → $1113.4
+Quantity: -1.78
+Notional: $1991 → $1982
+Holding time: 13H 37M
+NET P&L:
+$7.18"
+XRP,"Price: $2.6111 → $2.584
+Quantity: 1069.00
+Notional: $2791 → $2762
+Holding time: 40M
+NET P&L:
+-$31.19"
+XRP,"Price: $2.5757 → $2.6183
+Quantity: -3232.00
+Notional: $8325 → $8462
+Holding time: 9M
+NET P&L:
+-$144.16"
+XRP,"Price: $2.635 → $2.5789
+Quantity: 841.00
+Notional: $2216 → $2169
+Holding time: 1H 32M
+NET P&L:
+-$48.74"
+ETH,"Price: $3926 → $3868.3
+Quantity: 3.22
+Notional: $12642 → $12456
+Holding time: 2M
+NET P&L:
+-$195.78"
+SOL,"Price: $195.99 → $193.63
+Quantity: 24.63
+Notional: $4827 → $4769
+Holding time: 2H 18M
+NET P&L:
+-$61.97"
+ETH,"Price: $3982.5 → $3932.3
+Quantity: 1.69
+Notional: $6730 → $6646
+Holding time: 20H 49M
+NET P&L:
+-$90.19"
+SOL,"Price: $198.08 → $196.67
+Quantity: 16.49
+Notional: $3266 → $3243
+Holding time: 23M
+NET P&L:
+-$25.85"
+SOL,"Price: $195.43 → $198.18
+Quantity: -11.71
+Notional: $2288 → $2321
+Holding time: 1H 29M
+NET P&L:
+-$34.05"
+XRP,"Price: $2.6216 → $2.635
+Quantity: -1726.00
+Notional: $4525 → $4548
+Holding time: 49M
+NET P&L:
+-$26.76"
+XRP,"Price: $2.6174 → $2.6225
+Quantity: -1741.00
+Notional: $4557 → $4566
+Holding time: 2M
+NET P&L:
+-$12.21"
+XRP,"Price: $2.6262 → $2.6185
+Quantity: 877.00
+Notional: $2303 → $2296
+Holding time: 9M
+NET P&L:
+-$8.59"
+SOL,"Price: $196.79 → $195.63
+Quantity: 25.88
+Notional: $5093 → $5063
+Holding time: 5H 22M
+NET P&L:
+-$34.08"
+BTC,"Price: $112185 → $111200
+Quantity: 0.68
+Notional: $76286 → $75616
+Holding time: 14H 38M
+NET P&L:
+-$730.56"
+SOL,"Price: $198.57 → $195.9
+Quantity: 27.48
+Notional: $5457 → $5383
+Holding time: 4H 21M
+NET P&L:
+-$75.94"
+BNB,"Price: $1112 → $1097.7
+Quantity: 5.12
+Notional: $5693 → $5620
+Holding time: 7H 21M
+NET P&L:
+-$77.74"
+XRP,"Price: $2.6204 → $2.6231
+Quantity: -1324.00
+Notional: $3469 → $3473
+Holding time: 2M
+NET P&L:
+-$6.30"
+XRP,"Price: $2.6461 → $2.6192
+Quantity: 1193.00
+Notional: $3157 → $3125
+Holding time: 4H 34M
+NET P&L:
+-$34.60"
+BTC,"Price: $112415 → $111890
+Quantity: 0.21
+Notional: $23607 → $23497
+Holding time: 19H 0M
+NET P&L:
+-$122.51"
+SOL,"Price: $193.21 → $198.84
+Quantity: 30.78
+Notional: $5947 → $6120
+Holding time: 13H 45M
+NET P&L:
+$168.46"
+XRP,"Price: $2.6199 → $2.6469
+Quantity: -1308.00
+Notional: $3427 → $3462
+Holding time: 8H 24M
+NET P&L:
+-$38.07"
+SOL,"Price: $193.69 → $196.61
+Quantity: -56.71
+Notional: $10984 → $11150
+Holding time: 14H 35M
+NET P&L:
+-$173.98"
+BNB,"Price: $1091.1 → $1115.9
+Quantity: 5.05
+Notional: $5510 → $5635
+Holding time: 10H 57M
+NET P&L:
+$121.04"
+BNB,"Price: $1115.7 → $1117.4
+Quantity: -3.71
+Notional: $4139 → $4146
+Holding time: 4M
+NET P&L:
+-$9.62"
+BNB,"Price: $1124 → $1113.7
+Quantity: -2.97
+Notional: $3338 → $3308
+Holding time: 10H 23M
+NET P&L:
+$27.93"
+XRP,"Price: $2.6176 → $2.6216
+Quantity: -612.00
+Notional: $1602 → $1604
+Holding time: 1H 17M
+NET P&L:
+-$3.73"
+BTC,"Price: $114335 → $112058
+Quantity: 0.73
+Notional: $83465 → $81802
+Holding time: 27H 54M
+NET P&L:
+-$1727.57"
+XRP,"Price: $2.616 → $2.621
+Quantity: -994.00
+Notional: $2600 → $2605
+Holding time: 1M
+NET P&L:
+-$7.05"
+XRP,"Price: $2.6122 → $2.6121
+Quantity: 995.00
+Notional: $2599 → $2599
+Holding time: 27M
+NET P&L:
+-$1.97"
+XRP,"Price: $2.6053 → $2.613
+Quantity: -1006.00
+Notional: $2621 → $2629
+Holding time: 38M
+NET P&L:
+-$9.85"
+XRP,"Price: $2.5941 → $2.6081
+Quantity: -672.00
+Notional: $1743 → $1753
+Holding time: 3H 28M
+NET P&L:
+-$10.75"
+ETH,"Price: $4054.4 → $3932.4
+Quantity: 0.97
+Notional: $3933 → $3814
+Holding time: 57H 5M
+NET P&L:
+-$121.44"
+SOL,"Price: $194.22 → $190.94
+Quantity: 25.88
+Notional: $5026 → $4942
+Holding time: 57M
+NET P&L:
+-$87.49"
+ETH,"Price: $4093.6 → $3972.1
+Quantity: 2.45
+Notional: $10029 → $9732
+Holding time: 55H 18M
+NET P&L:
+-$305.58"
+BNB,"Price: $1140.6 → $1083.2
+Quantity: 5.64
+Notional: $6433 → $6109
+Holding time: 43H 44M
+NET P&L:
+-$327.04"
+BNB,"Price: $1131.3 → $1083.1
+Quantity: 6.33
+Notional: $7161 → $6856
+Holding time: 116H 46M
+NET P&L:
+-$308.53"
+BNB,"Price: $1138.2 → $1115
+Quantity: 0.77
+Notional: $876.41 → $858.55
+Holding time: 16H 1M
+NET P&L:
+-$18.23"
+BNB,"Price: $1158.1 → $1111.7
+Quantity: 8.46
+Notional: $9798 → $9405
+Holding time: 36H 40M
+NET P&L:
+-$397.13"
+SOL,"Price: $198.82 → $192.86
+Quantity: 33.88
+Notional: $6736 → $6534
+Holding time: 45H 47M
+NET P&L:
+-$205.40"
+XRP,"Price: $2.5967 → $2.6136
+Quantity: 1862.00
+Notional: $4835 → $4867
+Holding time: 69H 3M
+NET P&L:
+$27.59"
+BTC,"Price: $115097 → $112760
+Quantity: 0.48
+Notional: $55247 → $54125
+Holding time: 40H 47M
+NET P&L:
+-$1150.35"
+ETH,"Price: $4040.5 → $4003.3
+Quantity: 27.28
+Notional: $110225 → $109210
+Holding time: 18M
+NET P&L:
+-$1072.01"
+ETH,"Price: $4043.7 → $4016.5
+Quantity: 1.38
+Notional: $5580 → $5543
+Holding time: 56H 24M
+NET P&L:
+-$41.98"
+BNB,"Price: $1128.7 → $1124.8
+Quantity: 3.29
+Notional: $3713 → $3701
+Holding time: 13H 22M
+NET P&L:
+-$15.68"
+SOL,"Price: $202.81 → $194.85
+Quantity: 14.79
+Notional: $3000 → $2882
+Holding time: 43H 28M
+NET P&L:
+-$120.08"
+SOL,"Price: $200.94 → $194.52
+Quantity: 19.16
+Notional: $3850 → $3727
+Holding time: 9H 48M
+NET P&L:
+-$124.99"
+BTC,"Price: $114704 → $113250
+Quantity: 0.05
+Notional: $5735 → $5663
+Holding time: 45H 54M
+NET P&L:
+-$75.52"
+BTC,"Price: $114518 → $113064
+Quantity: 0.11
+Notional: $12597 → $12437
+Holding time: 10H 7M
+NET P&L:
+-$169.95"
+DOGE,"Price: $0.20277 → $0.19642
+Quantity: 22210.00
+Notional: $4504 → $4362
+Holding time: 34H 43M
+NET P&L:
+-$144.58"
+DOGE,"Price: $0.2007 → $0.19643
+Quantity: 15367.00
+Notional: $3084 → $3019
+Holding time: 1H 11M
+NET P&L:
+-$68.06"
+ETH,"Price: $4056.2 → $4033.9
+Quantity: 28.23
+Notional: $114507 → $113877
+Holding time: 25M
+NET P&L:
+-$688.71"
+ETH,"Price: $4189.2 → $4065.4
+Quantity: 5.74
+Notional: $24046 → $23335
+Holding time: 40H 44M
+NET P&L:
+-$722.57"
+DOGE,"Price: $0.19854 → $0.20162
+Quantity: 15297.00
+Notional: $3037 → $3084
+Holding time: 3H 39M
+NET P&L:
+$44.67"
+DOGE,"Price: $0.20096 → $0.19772
+Quantity: 10522.00
+Notional: $2115 → $2080
+Holding time: 6H 7M
+NET P&L:
+-$35.77"
+SOL,"Price: $203.56 → $201.06
+Quantity: 34.42
+Notional: $7007 → $6920
+Holding time: 1H 27M
+NET P&L:
+-$89.68"
+BTC,"Price: $115190 → $114533
+Quantity: 0.05
+Notional: $5760 → $5727
+Holding time: 14H 53M
+NET P&L:
+-$37.44"
+DOGE,"Price: $0.20033 → $0.20083
+Quantity: 15797.00
+Notional: $3165 → $3173
+Holding time: 44M
+NET P&L:
+$5.36"
+SOL,"Price: $198.7 → $202.76
+Quantity: 60.39
+Notional: $11999 → $12245
+Holding time: 9H 35M
+NET P&L:
+$235.49"
+BNB,"Price: $1123.5 → $1126.9
+Quantity: -3.03
+Notional: $3404 → $3415
+Holding time: 35M
+NET P&L:
+-$13.03"
+DOGE,"Price: $0.19987 → $0.19931
+Quantity: -11294.00
+Notional: $2257 → $2251
+Holding time: 1H 34M
+NET P&L:
+$4.52"
+BNB,"Price: $1146.8 → $1125.1
+Quantity: 2.54
+Notional: $2913 → $2858
+Holding time: 13H 1M
+NET P&L:
+-$57.25"
+DOGE,"Price: $0.19883 → $0.19893
+Quantity: 11312.00
+Notional: $2249 → $2250
+Holding time: 22M
+NET P&L:
+-$0.56"
