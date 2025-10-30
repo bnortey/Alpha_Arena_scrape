@@ -1,4 +1,4 @@
-symbol,price_text
+Asset,Price (USD)
 BTC,$
 ETH,$
 SOL,$
@@ -11,6 +11,30 @@ SOL,HIGH:$LOW:$
 BNB,HIGH:$LOW:$
 DOGE,HIGH:$LOW:$
 XRP,HIGH:$LOW:$
+BNB,"Price: $1094.6 → $1071.5
+Quantity: 2.28
+Notional: $2496 → $2443
+Holding time: 43H 26M
+NET P&L:
+-$53.82"
+BTC,"Price: $109750 → $107648
+Quantity: 0.07
+Notional: $7683 → $7535
+Holding time: 3H 57M
+NET P&L:
+-$153.06"
+SOL,"Price: $191.22 → $184.22
+Quantity: 33.89
+Notional: $6480 → $6243
+Holding time: 3H 50M
+NET P&L:
+-$242.21"
+ETH,"Price: $3874.2 → $3764.6
+Quantity: 1.67
+Notional: $6470 → $6287
+Holding time: 3H 50M
+NET P&L:
+-$188.00"
 BTC,"Price: $107870 → $108124
 Quantity: -0.10
 Notional: $10787 → $10812
@@ -587,27 +611,3 @@ Notional: $11999 → $12245
 Holding time: 9H 35M
 NET P&L:
 $235.49"
-BNB,"Price: $1123.5 → $1126.9
-Quantity: -3.03
-Notional: $3404 → $3415
-Holding time: 35M
-NET P&L:
--$13.03"
-DOGE,"Price: $0.19987 → $0.19931
-Quantity: -11294.00
-Notional: $2257 → $2251
-Holding time: 1H 34M
-NET P&L:
-$4.52"
-BNB,"Price: $1146.8 → $1125.1
-Quantity: 2.54
-Notional: $2913 → $2858
-Holding time: 13H 1M
-NET P&L:
--$57.25"
-DOGE,"Price: $0.19883 → $0.19893
-Quantity: 11312.00
-Notional: $2249 → $2250
-Holding time: 22M
-NET P&L:
--$0.56"
